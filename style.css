@@ -13,8 +13,8 @@ body {
   
 h1{
   font-weight: bold;
-  font-size: 4rem;
-   margin-top: auto;
+  font-size: 2rem !important;
+   margin-top: auto !important;
 }
   }
 
